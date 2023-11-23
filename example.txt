@@ -1,0 +1,9 @@
+This is a sample text file for testing a Data Loss Prevention (DLP) system.
+It may contain sensitive information like passwords, credit card numbers, and personal data.
+Do not share or expose this information in real-world scenarios.
+-------------------------------
+Username: john_doe
+Password: securePass123
+Credit Card: 1234-5678-9012-3456
+Social Security Number: 123-45-6789
+Personal Note: Remember to change passwords regularly!
