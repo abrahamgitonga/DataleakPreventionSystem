@@ -60,7 +60,7 @@ int main()
     // Assuming you want to monitor a file named "example.txt" you can change it to fit your file extension
     std::string filename = "example.txt";
 
-    // Monitor and prevent sensitive data leaks
+    // Monitor and prevent sensitive data leaks from file or system
     monitorAndPrevent(filename);
 
     return 0;
